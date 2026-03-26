@@ -1,7 +1,7 @@
 {
   "name": "failing-page",
   "version": "1.0.0",
-  "description": "Mini web local para pruebas de web crawler con fallos 500 controlados",
+  "description": "Mini local web app for crawler testing with controllable HTTP 500 failures",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
