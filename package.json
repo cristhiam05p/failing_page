@@ -1,0 +1,20 @@
+{
+  "name": "failing-page",
+  "version": "1.0.0",
+  "description": "Mini web local para pruebas de web crawler con fallos 500 controlados",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "crawler",
+    "express",
+    "testing",
+    "http-500"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
